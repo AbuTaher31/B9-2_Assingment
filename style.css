@@ -537,7 +537,17 @@
   line-height: 26px;
   margin: 20px 30px 0;
 }
-
+.place-content .btn {
+  color: #fff;
+  width: 200px;
+  height: 60px;
+  font-size: 22px;
+  border-radius: 8px;
+  margin: 7px 0;
+  font-weight: 600;
+  background: #ff5400;
+  border: 0;
+}
 /* newsletter-container */
 
 .newsletter-container {
@@ -1040,7 +1050,7 @@ form .Subscribe-btn {
     padding: 20px 10px;
   }
   .place-content {
-    height: 450px;
+    height: 538px;
     width: 500px;
     margin: auto;
   }
