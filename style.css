@@ -192,9 +192,43 @@
   flex-wrap: wrap;
   margin-top: -50px;
 }
-.destination-img img {
+.destination-img .img-1 {
   margin: 5px 5px;
+  width: 600px;
+  height: 312px;
 }
+
+.destination-img .img-2 {
+  margin: 5px 5px;
+  width: 600px;
+  height: 312px;
+}
+.destination-img .img-3 {
+  margin: 5px 5px;
+  width: 400px;
+  height: 297px;
+}
+.destination-img .img-4 {
+  margin: 5px 5px;
+  width: 500px;
+  height: 297px;
+}
+.destination-img .img-5 {
+  margin: 5px 5px;
+  width: 296px;
+  height: 292px;
+}
+.destination-img .img-6 {
+  margin: 5px 5px;
+  width: 500px;
+  height: 307px;
+}
+.destination-img .img-7 {
+  margin: 5px 5px;
+  width: 700px;
+  height: 307px;
+}
+
 .middle-btn .btn {
   color: #fff;
   width: 540px;
