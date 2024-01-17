@@ -164,7 +164,7 @@
 
 /* destination-container */
 .destination-container {
-  padding: 40px 15px;
+  padding: 40px px;
 }
 .destination-content {
   height: 200px;
@@ -425,6 +425,16 @@
   font-weight: 600;
   margin: 10px 0;
 }
+.banner1-card-content-2 .btn {
+  color: #fff;
+  width: 180px;
+  height: 60px;
+  font-size: 22px;
+  border-radius: 8px;
+  margin: 7px 0;
+  background: #ff5400;
+  border: 0;
+}
 
 .banner2 {
   background-image: url("./Images/Group\ 40.png");
@@ -485,6 +495,17 @@
   font-size: 20px;
   font-weight: 600;
   margin: 10px 0;
+}
+
+.banner2-card-content-2 .btn {
+  color: #fff;
+  width: 180px;
+  height: 60px;
+  font-size: 22px;
+  border-radius: 8px;
+  margin: 7px 0;
+  background: #ff5400;
+  border: 0;
 }
 
 /* place-container */
